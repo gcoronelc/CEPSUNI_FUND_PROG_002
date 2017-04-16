@@ -1,0 +1,6 @@
+Elimina usuario y clave:
+
+git config credential.helper remove
+
+
+git config --system --unset credential.helper
