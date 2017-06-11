@@ -1,0 +1,8 @@
+PROYECTO 01
+======================================
+
+Calcular el importe de una venta.
+
+Proyecto de clase anterior, pasarlo
+a la nueva estructura.
+
