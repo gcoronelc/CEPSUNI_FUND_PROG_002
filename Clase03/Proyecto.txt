@@ -1,0 +1,14 @@
+PROYECTO
+==================================================
+
+Desarrollar una aplicación que permita calcular el 
+promedio de un estudiante.
+
+Son 4 notas, de las cuales se elimina la menor, el 
+promedio se calcula solo con las tres mejores.
+
+Si el promedio es mayor o igual a 14 su condición es 
+aprobado, si es menor que 14 pero mayor o igual que 
+11, su condición es resagado, si es menor que 11 su
+condición es desaprobado.
+
