@@ -26,6 +26,21 @@ public class ConcytecService {
   private static final double FACT_02_VALOR = 0.12;
   private static final double FACT_03_VALOR = 0.17;
 
+  public static String[] obtenerCategorias(){
+    String categorias[] = {CAT_01, CAT_02};
+    return categorias;
+  }
+  
+  public static String[] obtenerProductos(){
+    String productos[] = {PROD_01, PROD_02, PROD_03};
+    return productos;
+  }
+  
+  public static String[] obtenerFactores(){
+    String factores[] = {FACT_01, FACT_02, FACT_03};
+    return factores;
+  }
+   
   public static double obtenerImporte(String categoria, String producto) {
     double importe = 0.0;
     // Inicio del proceso
