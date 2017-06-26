@@ -1,5 +1,7 @@
 ﻿![FUNDAMENTOS DE PROGRAMACIÓN CON JAVA](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_FUND_PROG_002/master/FUNDPROG0022.jpg)
 
+![FUNDAMENTOS DE PROGRAMACIÓN CON JAVA](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_FUND_PROG_002/master/PensandoEnServicios.png)
+
 # FUNDAMENTOS DE PROGRAMACIÓN CON JAVA
 
 ## DATOS GENERALES
