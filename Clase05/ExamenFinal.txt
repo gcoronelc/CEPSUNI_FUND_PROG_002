@@ -1,0 +1,46 @@
+Este examen tiene nota 10 como maximo.
+Los otros 10 puntos es un examen teorico.
+
+REQUERIMIENTO
+=============
+
+Se necesita una aplicación que permita calcular el cronograma de pagos de un prestamo bancario.
+
+Las datos son los siguientes:
+
+   - Capital: Importe del prestamo.
+   - Interes: Factor de interes mensual.
+   - Meses: Cantidad de meses a pagar el prestamo
+
+ILUSTRACIÓN
+===========
+
+Datos:
+
+   - Capital: 1200.00 (Soles)
+   - Interes: 0.04 (4% mensual)
+   - Meses:   12 (12 Meses)
+
+Analisis:
+
+   - El capital a par por mes es 100.00 Soles
+   - El interes a pagar se calcula: Capital * Ineteres
+     > El primer mes es: 1200.00 * 0.04  = 48 Soles
+     > El segundo mes es: 1100.00 * 0.04 = 44 Soles
+     > y así con los otros meses
+
+Resultado:
+
+	Mes	Capital	Interes	Cuota
+	1	100.0	48.0	148.0
+	2	100.0	44.0	144.0
+	3	100.0	40.0	140.0
+	4	100.0	36.0	136.0
+	5	100.0	32.0	132.0
+	6	100.0	28.0	128.0
+	7	100.0	24.0	124.0
+	8	100.0	20.0	120.0
+	9	100.0	16.0	116.0
+	10	100.0	12.0	112.0
+	11	100.0	8.0	108.0
+	12	100.0	4.0	104.0
