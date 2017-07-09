@@ -29,11 +29,6 @@ public class TablaView2 extends javax.swing.JFrame {
     
   }
 
-  private void limpiarTabla() {
-    for (int i = 11; i >= 0; i--) {
-      model.removeRow(i);
-    }
-  }
 
   private void cargarTabla() {
 
